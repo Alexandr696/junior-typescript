@@ -2,6 +2,7 @@
   "name": "junior-typescript",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Alexandr696.github.io/junior-typescript",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
